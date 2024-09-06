@@ -26,3 +26,4 @@ Sistema de Gestão de Relacionamento com o Cliente (CRM)** é uma ferramenta pod
    - Facilita o gerenciamento de tickets de suporte, acompanhamento de solicitações de clientes, e resolução de problemas. Isso melhora a satisfação do cliente e a eficiência do serviço de atendimento.
 
 
+![1 (1)](https://github.com/user-attachments/assets/75382e8d-edae-4c35-b9c7-51d2bb393081)
