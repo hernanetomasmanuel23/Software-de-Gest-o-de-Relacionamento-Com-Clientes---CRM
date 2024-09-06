@@ -1,3 +1,21 @@
+![1 (1)](https://github.com/user-attachments/assets/75382e8d-edae-4c35-b9c7-51d2bb393081)
+
+![1 (2)](https://github.com/user-attachments/assets/5f3140e4-aa64-4cf0-827f-8363bbc2cd75)
+
+![1 (3)](https://github.com/user-attachments/assets/bafa5a54-5f32-49f6-b381-ccdd1ad67498)
+
+![1 (4)](https://github.com/user-attachments/assets/e49d810a-f42e-40ad-aee9-e5674cb5babd)
+
+![1 (5)](https://github.com/user-attachments/assets/03fdd44b-995c-4751-a3a4-b0ba5546dfd3)
+
+![1 (6)](https://github.com/user-attachments/assets/33d0208b-fbda-4614-a309-a54b881ae5cd)
+
+![1 (7)](https://github.com/user-attachments/assets/5168922b-389b-4a2e-acb7-20cc892040f1)
+
+![1 (8)](https://github.com/user-attachments/assets/9c4b4317-a655-452b-b5ab-ee6ad96358e1)
+![1 (9)](https://github.com/user-attachments/assets/7231646b-b390-4cc1-ac90-5e22b190d73d)
+![1 (10)](https://github.com/user-attachments/assets/6421c384-1afe-4367-894b-b23a4700db42)
+
 # Software-de-Gest-o-de-Relacionamento-Com-Clientes---CRM
 Sistema de Gestão de Relacionamento com o Cliente (CRM)** é uma ferramenta poderosa que ajuda as empresas a gerenciar suas interações com clientes atuais e potenciais de maneira eficiente e organizada. O principal objetivo de um CRM é melhorar o relacionamento com os clientes, reter clientes existentes, aumentar as vendas.
 
@@ -26,4 +44,4 @@ Sistema de Gestão de Relacionamento com o Cliente (CRM)** é uma ferramenta pod
    - Facilita o gerenciamento de tickets de suporte, acompanhamento de solicitações de clientes, e resolução de problemas. Isso melhora a satisfação do cliente e a eficiência do serviço de atendimento.
 
 
-![1 (1)](https://github.com/user-attachments/assets/75382e8d-edae-4c35-b9c7-51d2bb393081)
+
